@@ -50,7 +50,7 @@ You should be redirected to the credentials overview
    ```
    Note: Don't give the module a position, as it doesn't render any DOM at all
 
-7. Add `http://localhost:8080/mmm-googlebirthdaysprovider` to your calendar URLs, something like this:
+7. Add `http://localhost:8080/mmm-googlebirthdaysprovider2` to your calendar URLs, something like this:
    ```
    (...)
 		{
@@ -59,7 +59,7 @@ You should be redirected to the credentials overview
 			config: {
 				calendars: [
 					{
-						url: 'http://localhost:8080/mmm-googlebirthdaysprovider',
+						url: 'http://localhost:8080/mmm-googlebirthdaysprovider2',
 						symbol: 'birthday-cake',
 						color: '#f00'
 					}
